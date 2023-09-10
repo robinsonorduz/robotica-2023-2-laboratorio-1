@@ -9,4 +9,4 @@ Se fabrico con un marcador borrable y accesorios de tuberia PVC, teniendo en cue
 
 ## Tablero como workobject
 El marcador debia escribir en una hoja pegada en un tablero, esto se logra creando en RobotStudio un workobject con las dimensiones de la hoja donde se va a eescribir, este workobject va a tenener los puntos que describen la trayectoria que debe seguir el TCP de la herramienta para lograr escribir, para cada uno de esos puntos (robotargets) hay que definir aparte de su posicion en el workobject, la orientacion con que la herramienta se va a orientar cuando llegue, hay que ser cuidadoso de configurar esta orientacion de manera que evite las indeterminaciones cuando describe la trayectoria de escritura. 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](cadherramienta.JPG)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](workobject.JPG)
