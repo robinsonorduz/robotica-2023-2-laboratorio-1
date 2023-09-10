@@ -16,6 +16,5 @@ El marcador debia escribir en una hoja pegada en un tablero, esto se logra crean
 Luego de cargar el codigo RAPID generado en RobotStudio, se hace la deteccion de tres puntos del workobject con la herramienta, primero se hace un paso a paso para asegurar que el brazo llegue a todos los puntos de la trayectoria sin problemas como se ve en el video de escritura en posicion horizontal.
 
 luego se le da la orden al robot de que haga la trayectoria completa como se ve en el video con el workobject en posicion inclinada
-
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://youtu.be/Gnh0GfuLM-Y)
+[I'm an inline-style link](https://youtu.be/Gnh0GfuLM-Y)
 
