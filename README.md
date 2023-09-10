@@ -14,7 +14,7 @@ El marcador debia escribir en una hoja pegada en un tablero, esto se logra crean
 
 ## Prueba con el robot real
 Luego de cargar el codigo RAPID generado en RobotStudio, se hace la deteccion de tres puntos del workobject con la herramienta, primero se hace un paso a paso para asegurar que el brazo llegue a todos los puntos de la trayectoria sin problemas como se ve en el video de escritura en posicion horizontal.
-[IRB140 escribiendo en un plano inclinado](https://youtu.be/W_YojqRGWdY)
+[IRB140 escribiendo en un plano horizontal](https://youtu.be/W_YojqRGWdY)
 luego se le da la orden al robot de que haga la trayectoria completa como se ve en el video con el workobject en posicion inclinada
 [IRB140 escribiendo en un plano inclinado](https://youtu.be/Gnh0GfuLM-Y)
 
